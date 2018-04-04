@@ -1,0 +1,11 @@
+D:\Code-Base\NET-Core\dotpwa\bin\Debug\netcoreapp2.0\dotpwa.deps.json
+D:\Code-Base\NET-Core\dotpwa\bin\Debug\netcoreapp2.0\dotpwa.runtimeconfig.json
+D:\Code-Base\NET-Core\dotpwa\bin\Debug\netcoreapp2.0\dotpwa.runtimeconfig.dev.json
+D:\Code-Base\NET-Core\dotpwa\bin\Debug\netcoreapp2.0\dotpwa.dll
+D:\Code-Base\NET-Core\dotpwa\bin\Debug\netcoreapp2.0\dotpwa.pdb
+D:\Code-Base\NET-Core\dotpwa\obj\Debug\netcoreapp2.0\dotpwa.csprojResolveAssemblyReference.cache
+D:\Code-Base\NET-Core\dotpwa\obj\Debug\netcoreapp2.0\dotpwa.csproj.CoreCompileInputs.cache
+D:\Code-Base\NET-Core\dotpwa\obj\Debug\netcoreapp2.0\dotpwa.AssemblyInfoInputs.cache
+D:\Code-Base\NET-Core\dotpwa\obj\Debug\netcoreapp2.0\dotpwa.AssemblyInfo.cs
+D:\Code-Base\NET-Core\dotpwa\obj\Debug\netcoreapp2.0\dotpwa.dll
+D:\Code-Base\NET-Core\dotpwa\obj\Debug\netcoreapp2.0\dotpwa.pdb
